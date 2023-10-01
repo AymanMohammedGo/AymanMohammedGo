@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center" >Hello!👋 My Name is Ayman Mohammed  </h1>
 
-<!--
-**AymanMohammedGo/AymanMohammedGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&center=true&vCenter=true&width=435&lines=Front-end+web+developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+</p>
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanMohammedGo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMohammedGo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AymanMohammedGo&icon=0&color=0">
+  </a>
+</p>
