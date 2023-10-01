@@ -1,6 +1,3 @@
-<h1 align="center" >Hello!👋   </h1>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AymanMohammedGo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
